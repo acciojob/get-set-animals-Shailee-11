@@ -1,6 +1,7 @@
 //complete this code
 class Animal {
 	constructor(species){
+		this.species=species;
 		}
 	get getspecies{
 			return this.species;
